@@ -1,1 +1,1 @@
-var recipes = { foo: 'bar' }
+var recipes = { }
